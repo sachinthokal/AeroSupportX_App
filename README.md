@@ -1,3 +1,36 @@
+# AeroSupportX_App 🚀
+
+**AeroSupportX** is a **web-based customer support & CRM system** built with **PHP, JavaScript, CSS, and LESS**, using **MySQL** as the database. It allows businesses to manage support tickets, track users, and view dashboards efficiently.
+
+---
+
+## 📝 Features
+
+- **User Management**: Register, login, and manage user profiles.  
+- **Ticket Management**: Create, update, and track support tickets.  
+- **Dashboard**: Admin and user dashboards for quick overview of tickets and statuses.  
+- **Admin Controls**: Manage users, tickets, and system settings.  
+- **Database**: MySQL backend for storing users, tickets, and logs.  
+- **Responsive UI**: Works smoothly on desktop and mobile devices.  
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend**: HTML, CSS, LESS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Server**: XAMPP / LAMP stack compatible  
+
+---
+
+## ⚡ Installation / Setup
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/sachinthokal/AeroSupportX_App.git
+
+
 # How to Run? Requirements
 
 Download and Install any local web server such as XAMPP. Download the provided source code zip file. (download button is located below) System Installation/Setup
